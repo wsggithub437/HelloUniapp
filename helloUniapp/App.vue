@@ -33,6 +33,7 @@
 			// #endif
 		},
 		onShow: function() {
+			// app显示时
 			console.log('App Show')
 		},
 		onHide: function() {
